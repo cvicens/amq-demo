@@ -1,4 +1,6 @@
 amq-examples/
 old/
+backup/
 install_and_examples*/
 *.zip
+target/
